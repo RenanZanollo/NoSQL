@@ -1,4 +1,4 @@
-[tabela.json](https://github.com/user-attachments/files/15780303/tabela.json)[localização_google_sp.json](https://github.com/user-attachments/files/15780302/localizacao_google_sp.json)# NoSQL
+# NoSQL
 <H1>ETAPA 1</H1>
 
 Um usuário configura seu navegador com os seguintes dados:
@@ -45,5 +45,13 @@ Para entrega desta atividade utilize o readme.md de um repositório remoto, crie
 ![image](https://github.com/RenanZanollo/NoSQL/assets/163452594/b50669fd-fd61-4ece-a38a-6281e59a81b6)
 
 <H1>ETAPA 3</H1>
+
+![image](https://github.com/RenanZanollo/NoSQL/assets/163452594/c9b95e96-e6b4-4707-8e89-fb5d5af07177)
+
+<p>Não sabia exatamente como o senhor queria a criação de jogos Portanto fiz de duas formas diferentes</p>
+
+![image](https://github.com/RenanZanollo/NoSQL/assets/163452594/f8f68ea2-c8b9-4ff1-8d3b-41830e42c41a)
+![image](https://github.com/RenanZanollo/NoSQL/assets/163452594/7799ebe4-384b-4d49-8e44-d8f82a325ee3)
+
 
 
